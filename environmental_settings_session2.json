@@ -1,0 +1,82 @@
+{
+  "campaign_name": "The Shadow of Erebor",
+  "current_arc": "The Kobold Conspiracy",
+  "session_number": 2,
+  "current_location": "Thornhaven Village - Approaching the Abandoned Mill",
+  "time_of_day": "Late afternoon, storm gathering",
+  "season": "Early autumn",
+  "weather": "Dark clouds rolling in, wind picking up, first drops of rain",
+  
+  "active_quests": [
+    {
+      "title": "Clear the Kobold Infestation",
+      "giver": "Scarred merchant in Thornhaven",
+      "objective": "Investigate and eliminate organized kobolds at the ruined mill",
+      "reward": "Full payment after completion",
+      "status": "In progress - party departing for mill"
+    }
+  ],
+  
+  "recent_events": [
+    "Thorin refused upfront payment, insisting on honor-based completion",
+    "Party accepted contract to clear organized kobold presence",
+    "Thorin suspects a 'darker hand' behind the kobolds",
+    "Storm broke as party prepared to depart",
+    "Tensions high between Thorin and the scarred quest-giver"
+  ],
+  
+  "known_npcs": [
+    {
+      "name": "The Scarred Merchant",
+      "description": "Quest giver with suspicious demeanor",
+      "relationship": "Tense - Thorin distrusts him",
+      "last_interaction": "Thorin threatened him if he lied about the threat"
+    },
+    {
+      "name": "Village Elder",
+      "description": "Elderly human, concerned about village safety",
+      "relationship": "Neutral",
+      "last_interaction": "Provided information about kobold attacks"
+    }
+  ],
+  
+  "world_state": {
+    "threat_level": "Rising - organized kobolds suggest intelligent leadership",
+    "political_situation": "Village is on edge, travelers avoiding the road",
+    "magical_atmosphere": "Whispers of dark magic, possible arcane corruption",
+    "economic_situation": "Trade disrupted by kobold attacks on the road"
+  },
+  
+  "location_details": {
+    "abandoned_mill": {
+      "description": "Old stone mill on abandoned farmland, partially collapsed",
+      "history": "Abandoned 3 years ago after mysterious deaths",
+      "current_state": "Kobold stronghold, possibly excavating something",
+      "rumors": "Miners heard sounds of 'deep stone' being struck",
+      "danger_level": "High - organized enemy, possible trap"
+    },
+    "thornhaven_village": {
+      "description": "Small farming village on the trade road",
+      "population": "~200 humans, a few dwarves and halflings",
+      "defenses": "Wooden palisade, village militia",
+      "mood": "Fearful, desperate for help"
+    }
+  },
+  
+  "party_resources": {
+    "supplies": "Standard adventuring gear, 3 days rations",
+    "gold": "50gp (Thorin), unknown for others",
+    "special_items": "Thorin's ancestral war axe, Elara's spellbook",
+    "health_status": "Full health, well-rested"
+  },
+  
+  "mysteries_and_hooks": [
+    "What is the 'darker hand' guiding the kobolds?",
+    "What are the kobolds excavating or searching for?",
+    "Why was the mill abandoned with mysterious deaths?",
+    "Is there an arcane connection to Elara's missing mentor?",
+    "What does 'struck deep stone' mean - ancient ruins? Buried artifact?"
+  ],
+  
+  "dm_notes": "Party is suspicious and alert. Thorin's pride and honor drive decisions. Storm provides atmospheric tension. Kobolds are more organized than typical - hint at dragon cult or necromancer influence. Mill may contain portal, artifact, or entrance to underdark."
+}

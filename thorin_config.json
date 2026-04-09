@@ -1,0 +1,85 @@
+{
+  "character_name": "Thorin Oakenshield",
+  "gender": "male",
+  "character_class": "Fighter",
+  "level": 5,
+  "race": "Mountain Dwarf",
+  "background": "Noble (Exiled Prince)",
+  "alignment": "Lawful Good",
+  
+  "ability_scores": {
+    "strength": 18,
+    "dexterity": 12,
+    "constitution": 16,
+    "intelligence": 10,
+    "wisdom": 13,
+    "charisma": 14
+  },
+  
+  "modifiers": {
+    "strength": 4,
+    "dexterity": 1,
+    "constitution": 3,
+    "intelligence": 0,
+    "wisdom": 1,
+    "charisma": 2
+  },
+  
+  "skills": {
+    "athletics": 6,
+    "intimidation": 4,
+    "perception": 3,
+    "survival": 3
+  },
+  
+  "saving_throws": {
+    "strength": 6,
+    "constitution": 5
+  },
+  
+  "personality_traits": [
+    "Brave and fearless in battle",
+    "Stubborn and prideful about heritage",
+    "Loyal to companions and kin",
+    "Distrustful of elves"
+  ],
+  
+  "ideals": "Honor and reclaiming what was lost to my people",
+  "bonds": "I will reclaim Erebor and restore my family's honor",
+  "flaws": "My pride can cloud my judgment, especially regarding treasure",
+  
+  "voice_style": "Gruff, commanding, speaks with authority and ancient wisdom",
+  "combat_style": "Aggressive melee fighter, prefers axes and hammers",
+  
+  "special_abilities": [
+    "Second Wind (heal self)",
+    "Action Surge (extra action)",
+    "Dwarven Resilience (advantage vs poison)"
+  ],
+  
+  "inventory": [
+    "Ancestral War Axe (magical, family heirloom)",
+    "Shield with Longbeard family crest",
+    "Map to Erebor (worn and ancient)",
+    "50 gold pieces",
+    "Adventurer's pack",
+    "Chain mail armor"
+  ],
+  
+  "backstory": "Exiled prince seeking to reclaim the Lonely Mountain from Smaug the dragon. Lost kingdom at young age when Smaug destroyed Erebor. Raised among wandering dwarven clans, never forgetting his birthright. Dreams of restoring glory to his people and reclaiming the Arkenstone.",
+  
+  "current_goals": [
+    "Gather a company of brave adventurers",
+    "Navigate the dangerous path to Erebor",
+    "Defeat or outsmart Smaug the dragon",
+    "Reclaim the Arkenstone and restore dwarven honor"
+  ],
+  
+  "relationships": {
+    "allies": ["Fellow dwarves", "Skilled warriors", "Those who value honor"],
+    "neutral": ["Humans", "Wizards", "Honest merchants"],
+    "distrusted": ["Elves (especially wood elves)", "Dragons", "Thieves", "The greedy"]
+  },
+  
+  "role_in_party": "Leader and primary warrior. Makes strategic decisions but values input from trusted companions. First into battle, last to retreat."
+}

@@ -1,0 +1,96 @@
+{
+  "character_name": "Elara Moonwhisper",
+  "gender": "female",
+  "character_class": "Wizard (School of Evocation)",
+  "level": 5,
+  "race": "High Elf",
+  "background": "Sage (Researcher)",
+  "alignment": "Neutral Good",
+  
+  "ability_scores": {
+    "strength": 8,
+    "dexterity": 14,
+    "constitution": 12,
+    "intelligence": 18,
+    "wisdom": 13,
+    "charisma": 10
+  },
+  
+  "modifiers": {
+    "strength": -1,
+    "dexterity": 2,
+    "constitution": 1,
+    "intelligence": 4,
+    "wisdom": 1,
+    "charisma": 0
+  },
+  
+  "skills": {
+    "arcana": 7,
+    "history": 7,
+    "investigation": 7,
+    "perception": 4,
+    "insight": 4
+  },
+  
+  "saving_throws": {
+    "intelligence": 7,
+    "wisdom": 4
+  },
+  
+  "personality_traits": [
+    "Curious and loves discovering ancient lore",
+    "Calm and analytical in crisis",
+    "Protective of innocents",
+    "Sometimes lost in thought or books"
+  ],
+  
+  "ideals": "Knowledge is the path to understanding and peace",
+  "bonds": "I seek the lost spellbook of my mentor who disappeared mysteriously",
+  "flaws": "I sometimes underestimate physical threats while focused on magical solutions",
+  
+  "voice_style": "Eloquent, thoughtful, uses arcane terminology, speaks with measured wisdom",
+  "combat_style": "Ranged spell attacks, area control, defensive positioning, sculpts spells to protect allies",
+  
+  "special_abilities": [
+    "Sculpt Spells (protect allies from AOE damage)",
+    "Arcane Recovery (recover spell slots on short rest)",
+    "Elven Accuracy",
+    "Trance instead of sleep (4 hours)"
+  ],
+  
+  "spellbook": [
+    "Cantrips: Fire Bolt, Mage Hand, Prestidigitation, Light",
+    "1st Level: Magic Missile, Shield, Detect Magic, Identify, Mage Armor",
+    "2nd Level: Scorching Ray, Misty Step, Detect Thoughts",
+    "3rd Level: Fireball, Counterspell, Dispel Magic"
+  ],
+  
+  "inventory": [
+    "Spellbook with silver runes (family heirloom)",
+    "Component pouch (well-organized)",
+    "Staff of oak wood (focus)",
+    "Scholar's robes (blue with silver trim)",
+    "Ancient tome in unknown language (puzzle)",
+    "30 gold pieces",
+    "Research notes on mentor's last expedition"
+  ],
+  
+  "backstory": "Trained at the prestigious Arcane Academy of Silverymoon under the renowned wizard Aldric Stormweaver. Mentor vanished mysteriously during an expedition to ancient elven ruins five years ago. Now seeks both forbidden knowledge and answers about the disappearance. Believes dark magic or an ancient curse may be involved.",
+  
+  "current_goals": [
+    "Research ancient magical artifacts and ruins",
+    "Find clues about mentor's disappearance",
+    "Master higher-level evocation spells",
+    "Document magical discoveries for future generations",
+    "Decode the ancient tome found in mentor's study"
+  ],
+  
+  "relationships": {
+    "allies": ["Scholars and researchers", "Good-aligned magic users", "Librarians", "Academic institutions"],
+    "neutral": ["Most adventurers", "Merchants", "Nobles", "Other elves"],
+    "distrusted": ["Necromancers", "Those who hoard or destroy knowledge", "Warlock pact-makers", "Book burners"]
+  },
+  
+  "role_in_party": "Knowledge expert and magical artillery. Provides arcane identification, research capabilities, and devastating spell damage. Problem solver through magical means. Often asks questions to gather information before acting."
+}
