@@ -26,7 +26,7 @@ if not exist "dnd_bridge.py" (
 )
 
 REM Set the Google API Key
-set GOOGLE_API_KEY=AIzaSyCps3nnYrKrWhs4yowDNs0ejroUYkHUmnY
+set GOOGLE_API_KEY=""
 echo [OK] API Key configured
 
 REM ========================================
